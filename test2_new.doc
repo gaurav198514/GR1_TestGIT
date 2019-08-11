@@ -1,4 +1,8 @@
 
 This is new test2 doc
+<<<<<<< HEAD
 
 This is third line added from local repo 
+=======
+Second line is added from GITHub by other tester
+>>>>>>> 70edf7cffe16eec9c1d48274282c2cbf2281d334
